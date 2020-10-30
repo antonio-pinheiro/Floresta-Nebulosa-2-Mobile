@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Fruta
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Inimigo
+  - Itens
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 11987805
+    locked: 0
+  - name: Cenario
+    uniqueID: 2186649243
+    locked: 0
+  - name: Inimigos
+    uniqueID: 3290730931
+    locked: 0
+  - name: Itens
+    uniqueID: 2644765575
+    locked: 0
+  - name: Player
+    uniqueID: 1534713189
+    locked: 0
